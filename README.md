@@ -28,11 +28,11 @@ Durante o desenvolvimento do projeto, foram abordados os seguintes tópicos:
 
 1. **Clone o repositório:**
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/jeremyztj/Lei-de-Benford.git
    ```
 2. **Navegue até o diretório do projeto:**
    ```bash
-   cd seu-repositorio
+   cd Lei-de-Benford
    ```
 3. **Abra o projeto no Jupyter Notebook:**
    ```bash
